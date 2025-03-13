@@ -105,3 +105,9 @@ SPA uygulamalarında, DOM manipülasyonu genellikle JavaScript ile yapılır. Ö
     SPA, kullanıcıya hızlı bir deneyim sunmak için sayfa yenilemeyi ortadan kaldırır ve dinamik içerik güncellemeleri sağlar.
     DOM, sayfanın yapısını temsil eder ve JavaScript ile bu yapıyı değiştirmek mümkündür.
     Selektörler, DOM öğelerini seçmek ve üzerinde işlem yapmak için kullanılır.
+
+    https://education.github.com/pack/redeem/copilot-student About GitHub Copilot
+Use GitHub Copilot to get autocomplete-style suggestions from an AI pair programmer as you code.
+
+Offers
+
