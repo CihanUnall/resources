@@ -106,4 +106,4 @@
 
     Containerization (Docker)
 
-Bu konular, SPA geliştirme sürecinde ele alınması gereken temel başlıklardır.
+Bu konular, SPA geliştirme sürecinde ele alınması gereken temel başlıklardır..
